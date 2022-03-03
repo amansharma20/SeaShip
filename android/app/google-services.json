@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "914567913526",
+    "project_id": "sea-ship-276f2",
+    "storage_bucket": "sea-ship-276f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914567913526:android:00230185f7854ec2b03897",
+        "android_client_info": {
+          "package_name": "slotsseabattle.shipcasino.moneybomb.realsea.waterpokies.onlinecaptain.gamesplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914567913526-rred00p2m72meeaddb8dn5ndje5ei9q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG-HFfRUOPqvnoX-Xv58kumk1Dt7vpKf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914567913526-rred00p2m72meeaddb8dn5ndje5ei9q6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
